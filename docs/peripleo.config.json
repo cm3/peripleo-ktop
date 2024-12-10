@@ -3,10 +3,10 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "Ktop",
+      "name": "VisitPlus",
       "format": "LINKED_PLACES",
       "src": "./data/Peripleo_Data_1733822719.json",
-      "attribution": "I dunno."
+      "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
   "facets": [
